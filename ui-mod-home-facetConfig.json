@@ -1,22 +1,4 @@
 {
-  "th_httpinspireeceuropaeutheme-theme_tree.key": {
-    "terms": {
-      "field": "th_httpinspireeceuropaeutheme-theme_tree.key",
-      "size": 34
-    }
-  },
-  "cl_topic.key": {
-    "terms": {
-      "field": "cl_topic.key",
-      "size": 20
-    }
-  },
-  "resourceType": {
-    "terms": {
-      "field": "resourceType",
-      "size": 10
-    }
-  },
   "cat": {
     "terms": {
       "field": "cat.keyword",
